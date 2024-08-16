@@ -27,6 +27,10 @@ English description follows the Japanese
 
 ![Mail Score Weighted JP](mail_score_weighted_jp.jpg)
 
+色の説明：
+- 赤：ユーザによるマニュアル操作が必要な手順
+- 青：このプログラムの発展性
+
 ### 使用方法
 Google Colabを使用して以下の手順を実行します。
 
@@ -110,6 +114,10 @@ Below is a description of the functionalities and usage of each script.
 The following figure visualizes the algorithm used in `mail_score_weighted.ipynb`.
 
 ![Mail Score Weighted EN](mail_score_weighted_en.jpg)
+
+Color Explanation:
+- **Red**: Steps that require manual operation by the user
+- **Blue**: The potential for future development of this program
 
 ### How to Use
 The following steps are to be executed using Google Colab.
