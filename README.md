@@ -21,6 +21,12 @@ English description follows the Japanese
 - `word_cloud.ipynb`: 顧客対応履歴とインシデントに基づくワードクラウドを作成します。
 - `mail_score_weighted.ipynb`: 問い合わせメールのスコアリングを行い、クレームの可能性を評価します。
 
+### `mail_score_weighted.ipynb`のアルゴリズム
+
+以下の図は、`mail_score_weighted.ipynb`のアルゴリズムを可視化した図です。
+
+![Mail Score Weighted JP](mail_score_weighted_jp.jpg)
+
 ### 使用方法
 Google Colabを使用して以下の手順を実行します。
 
@@ -98,6 +104,12 @@ Below is a description of the functionalities and usage of each script.
 - `word_cloud_member.ipynb`: Creates a word cloud for a specified member.
 - `word_cloud.ipynb`: Creates word clouds based on customer support history and incidents.
 - `mail_score_weighted.ipynb`: Scores inquiry emails and evaluates the likelihood of complaints.
+
+### Algorithm of `mail_score_weighted.ipynb`
+
+The following figure visualizes the algorithm used in `mail_score_weighted.ipynb`.
+
+![Mail Score Weighted EN](mail_score_weighted_en.jpg)
 
 ### How to Use
 The following steps are to be executed using Google Colab.
