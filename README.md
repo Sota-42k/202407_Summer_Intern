@@ -28,8 +28,8 @@ English description follows the Japanese
 ![Mail Score Weighted JP](mail_score_weighted_jp.jpg)
 
 色の説明：
-- 赤：ユーザによるマニュアル操作が必要な手順
-- 青：このプログラムの発展性
+- **赤**：ユーザによるマニュアル操作が必要な手順
+- **青**：このプログラムの発展性
 
 ### 使用方法
 Google Colabを使用して以下の手順を実行します。
