@@ -7,7 +7,7 @@ English description follows the Japanese
 ## 日本語
 
 ### 概要
-このプロジェクトには、インターンシップでの成果物が含まれています。自然言語処理を用いたデータ分析のためのPythonスクリプトが含まれています。以下のスクリプトが含まれています：
+このプロジェクトは、作成者のインターンシップでの成果物であり、自然言語処理を用いたデータ分析のためのPythonスクリプトが含まれています。
 - `co_occurrence_network.ipynb`
 - `word_cloud_member.ipynb`
 - `word_cloud.ipynb`
@@ -22,7 +22,6 @@ English description follows the Japanese
 - `mail_score_weighted.ipynb`: 問い合わせメールのスコアリングを行い、クレームの可能性を評価します。
 
 ### `mail_score_weighted.ipynb`のアルゴリズム
-
 以下の図は、`mail_score_weighted.ipynb`のアルゴリズムを可視化した図です。
 
 ![Mail Score Weighted JP](mail_score_weighted_jp.jpg)
@@ -32,7 +31,7 @@ English description follows the Japanese
 - **青**：このプログラムの発展性
 
 ### 使用方法
-Google Colabを使用して以下の手順を実行します。
+このプログラムは、Google Colabで構築したものであり、現状はGoogle Colab上での使用を想定しています。
 
 1. Google Colabでいずれかのファイルを開きます：
   - [co_occurrence_network](https://colab.research.google.com/github/Sota-42k/202407_Sekisho/blob/ba262dc92e81fcea609aae894a1b255c53de5dc8/co_occurrence_network.ipynb)
@@ -95,7 +94,7 @@ Google Colabを使用して以下の手順を実行します。
 ## English
 
 ### Overview
-This project is the output from the internship experience. This includes Python scripts for data analysis using natural language processing. The following scripts are included:
+This project is the output from the internship experience of the author. This includes Python scripts for data analysis using natural language processing.
 - `co_occurrence_network.ipynb`
 - `word_cloud_member.ipynb`
 - `word_cloud.ipynb`
@@ -110,7 +109,6 @@ Below is a description of the functionalities and usage of each script.
 - `mail_score_weighted.ipynb`: Scores inquiry emails and evaluates the likelihood of complaints.
 
 ### Algorithm of `mail_score_weighted.ipynb`
-
 The following figure visualizes the algorithm used in `mail_score_weighted.ipynb`.
 
 ![Mail Score Weighted EN](mail_score_weighted_en.jpg)
@@ -120,7 +118,7 @@ Color Explanation:
 - **Blue**: The potential for future development of this program
 
 ### How to Use
-The following steps are to be executed using Google Colab.
+The programs were created on Google Colab, and are expected to be used on Google Colab as of now.
 
 1. Open following files on Google Colab:
   - [co_occurrence_network](https://colab.research.google.com/github/Sota-42k/202407_Sekisho/blob/ba262dc92e81fcea609aae894a1b255c53de5dc8/co_occurrence_network.ipynb)
